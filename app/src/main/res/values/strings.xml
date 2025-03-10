@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="list_input_bar_hint">Write your grocery list</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
